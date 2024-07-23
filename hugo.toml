@@ -1,4 +1,4 @@
 baseURL = 'https://hacklabucm.github.io/HLU/'
 languageCode = 'en-us'
-title = 'Hacklab UCM'
+title = 'RER'
 theme = 'hugo-book'
