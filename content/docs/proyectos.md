@@ -2,6 +2,7 @@
 title = "Proyectos"
 draft = false
 weight = 5
+bookToc: false
 +++
 ## Digitalización
 #### Fotogrametería de un cráneo
