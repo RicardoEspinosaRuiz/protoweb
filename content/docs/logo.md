@@ -8,4 +8,8 @@ El estudio suizo [NORM](https://norm.to/) definió la manera más sencilla de re
 1 haz esto  
 2 haz lo otro  
 3 haz lo demas allá  
-{{< iframe "/p5sketch/index.html" >}}
+<div id="sketch-holder">
+  <!-- Aquí se cargará el sketch de p5.js -->
+</div>
+
+<script src="/p5sketch/sketch.js"></script>
